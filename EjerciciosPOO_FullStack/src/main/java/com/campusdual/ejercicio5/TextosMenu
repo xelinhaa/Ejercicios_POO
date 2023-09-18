@@ -1,0 +1,180 @@
+########################################################
+################# Programa de dietas ###################
+########################################################
+Escriba una opción:
+===================================
+1-Gestión de Dietas
+2-Gestión de Pacientes
+3-Salir del programa
+1
+########################################################
+################# Gestión de Dietas# ###################
+########################################################
+Escriba una opción:
+===================================
+1-Agregar nueva dieta
+2-Listar dietas
+3-Eliminar dieta
+4-Salir
+1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Crear dieta
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Escriba un nombre para la dieta
+prueba
+Escriba una opción:
+===================================
+1-Dieta sin límite
+2-Dieta por calorías
+3-Dieta por macronutrientes
+4-Dieta por datos personales
+5-Dieta por datos de paciente
+1
+Se ha creado una dieta sin límites
+Escriba una opción:
+===================================
+1-Agregar nueva dieta
+2-Listar dietas
+3-Eliminar dieta
+4-Salir
+4
+Escriba una opción:
+===================================
+1-Gestión de Dietas
+2-Gestión de Pacientes
+3-Salir del programa
+2
+1-Añadir un paciente
+2-Listar pacientes
+3-Eliminar un paciente
+4-Salir
+1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Escriba los datos personales del paciente
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Nombre
+Juanjo
+Apellidos
+Álvarez
+Peso:
+80
+Altura:
+173
+Edad:
+44
+Mujer u Hombre(m/h):
+h
+1-Añadir un paciente
+2-Listar pacientes
+3-Eliminar un paciente
+4-Salir
+2
+Escoja un paciente:
+1-Juanjo
+2-Salir
+1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Datos del paciente Juanjo
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Lista de dietas
+Nombre: Juanjo
+Apellidos: Álvarez
+Altura: 173
+Peso: 80
+Edad: 44
+Sexo: Hombre
+1-Cambiar Nombre
+2-Cambiar Apellidos
+3-Cambiar Peso
+4-Cambiar Altura
+5-Cambiar Edad
+6-Cambiar Sexo
+7-Agregar Dieta
+8-Eliminar Dieta
+9-Salir
+7
+Seleccione un día de la semana
+1-Lunes
+2-Martes
+3-Miércoles
+4-Jueves
+5-Viernes
+6-Sábado
+7-Domingo
+8-Salir
+1
+Lista de dietas:
+1-prueba
+3-Salir
+1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Datos del paciente Juanjo
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Lista de dietas
+Lunes - prueba
+Nombre: Juanjo
+Apellidos: Álvarez
+Altura: 173
+Peso: 80
+Edad: 44
+Sexo: Hombre
+1-Cambiar Nombre
+2-Cambiar Apellidos
+3-Cambiar Peso
+4-Cambiar Altura
+5-Cambiar Edad
+6-Cambiar Sexo
+7-Agregar Dieta
+8-Eliminar Dieta
+9-Salir
+7
+Seleccione un día de la semana
+1-Lunes
+2-Martes
+3-Miércoles
+4-Jueves
+5-Viernes
+6-Sábado
+7-Domingo
+8-Salir
+7
+Lista de dietas:
+1-prueba
+3-Salir
+1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Datos del paciente Juanjo
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Lista de dietas
+Lunes - prueba
+Domingo - prueba
+Nombre: Juanjo
+Apellidos: Álvarez
+Altura: 173
+Peso: 80
+Edad: 44
+Sexo: Hombre
+1-Cambiar Nombre
+2-Cambiar Apellidos
+3-Cambiar Peso
+4-Cambiar Altura
+5-Cambiar Edad
+6-Cambiar Sexo
+7-Agregar Dieta
+8-Eliminar Dieta
+9-Salir
+9
+1-Añadir un paciente
+2-Listar pacientes
+3-Eliminar un paciente
+4-Salir
+4
+Escriba una opción:
+===================================
+1-Gestión de Dietas
+2-Gestión de Pacientes
+3-Salir del programa
+3
+Gracias por usar el programa, hasta pronto :)
+
+Process finished with exit code 0
